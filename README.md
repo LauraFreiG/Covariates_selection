@@ -5,4 +5,4 @@ This repository contents code to reproduce the simulation results of the thesis 
 
 Freijeiro-González, L., Febrero-Bande, M., and González-Manteiga, W. (2022a). A Critical Review of LASSO and Its Derivatives for Variable Selection Under Dependence Among Covariates. International Statistical Review, 90(1):118–145. https://doi.org/10.1111/insr.12469.
 
-Freijeiro-González, L., Febrero-Bande, M., and González-Manteiga, W. (2022b). Novel specification tests for additive concurrent model formulation based on martingale difference divergence. https://arxiv.org/abs/2208.00701. Submitted manuscript.
+Freijeiro-González, L., Febrero-Bande, M. & González-Manteiga, W. Novel specification tests for synchronous additive concurrent model formulation based on martingale difference divergence. TEST (2023). https://doi.org/10.1007/s11749-023-00857-y
